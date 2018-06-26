@@ -13,6 +13,8 @@
 ###index.html
  hoverすると波的なのが走るようにしたい。ちょっと考えどころ。
 
+###me.html
+  画像macにあるしよ～
 ###works.html
  一寸ほかのサイト見てみる～
 
@@ -20,6 +22,7 @@
 ##css
   sass使えるようにしたい(macで作業させる？)
   →その為にはgithub早くつなげるべき？
+  hoverアクション多めにほしい！！
 ###style.css
    text-align:center;
    だめなんじゃないの～～～w
