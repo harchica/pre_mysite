@@ -17,7 +17,7 @@ a{
 }
 
 .cap{
-  padding: 16px 8px 8px 32px;
+  padding: 0px 8px 8px 32px;
   font-weight: lighter;
 }
 
@@ -30,8 +30,8 @@ a{
 /*Twitter*/
 .twitter{
   background-color: #23a0f3;
-  height: 224px;
-  padding: 80px 16px 16px 16px;
+  height: 216px;
+  padding: 72px 16px 16px 16px;
 }
 
 
@@ -42,8 +42,8 @@ a{
 /**Tumbrl*/
 .tumblr{
   background-color: #000;
-  height: 224px;
-  padding: 80px 24px 16px 16px;
+  height: 216px;
+  padding: 72px 24px 16px 16px;
 }
 
 .fa-tumblr{
@@ -86,8 +86,8 @@ a{
 /*github*/
 .github{
   background-color: #f06594;
-  height: 224px;
-  padding: 80px 24px 16px 16px;
+  height: 216px;
+  padding: 72px 24px 16px 16px;
 }
 
 .fa-github{
@@ -98,12 +98,12 @@ a{
 /*note*/
 .note{
   background-color: rgba(67,200,179,0.5);
-  height: 224px;
-  padding: 80px 24px 16px 16px;
+  height: 216px;
+  padding: 72px 24px 16px 16px;
 }
 
 .note_logo{
-  width: 200px;
+  width: 216px;
   height: 116px;
 }
 
@@ -113,8 +113,8 @@ a{
   background: -webkit-linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
   background: linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;/*グラデーション①*/
   overflow: hidden;/*はみ出た部分を隠す*/
-  height: 224px;
-  padding: 80px 24px 16px 16px;
+  height: 216px;
+  padding: 72px 24px 16px 16px;
 }
 
 
