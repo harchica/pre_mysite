@@ -35,19 +35,27 @@ span{
   background-color: #135589;
 }
 
+.heading_div{
+  height: 96px;
+  background-color: #135589;
+}
+
+
 
 .heading{
   padding:24px 12px;
   font-size: 32px;
-  color: #ADE9DA;
+  color: #fff;
 
 }
 
-.text{
+.long_text{
   width: 100%;
   height: 240px;
   margin: 0 auto;
-  background-color: #3DDAD7;
+  margin-bottom: 8px;
+  padding: 16px;
+  background-color: #F4e8c1;
 
 }
 
@@ -55,7 +63,16 @@ span{
   width: 100%;
   height: 240px;
   margin: 0 auto;
-  background-color: #3DDAD7;
+  margin: 8px 0px;
+  background-color: #a0c1b8;
+}
+
+.illustration{
+  width: 100%;
+  height: 240px;
+  margin: 0 auto;
+  margin: 8px 0px;
+  background-color: #709fb0;
 }
 
 /*list_slider*/
