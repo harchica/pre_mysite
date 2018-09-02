@@ -69,6 +69,17 @@ clear: both;
 visibility:hidden;
 }
 
+.profile_detail{
+  height: 320px;
+  width: 90%;
+  padding: 20px;
+  background-color: rgba(97,108,225,0.3);
+  margin: 0 auto;
+  margin-top: 40px;
+  top:20px;
+  border-radius: 20px;
+}
+
 .memo{
     background-color: rgba(97,126,218,0.3);
     height:400px;

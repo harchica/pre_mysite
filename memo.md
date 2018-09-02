@@ -44,21 +44,24 @@ HTML/CSS/JS/PHP/MySQL or postgreSQL
 
 
 
-##css
+## css
   sass使えるようにしたい(macで作業させる？)
   →その為にはgithub早くつなげるべき？
   hoverアクション多めにほしい！！
-###style.css
+### style.css
    text-align:center;
    だめなんじゃないの～～～w
 
-###reset.css
+### reset.css
 
-##js
+### works.css
+  テキストにシャドウ落とすか迷っている
+
+## js
  jQuery挿入済！完了～・
  Ajaxとか使えるかな。
 
-##PHP
+## PHP
 PHPとJSどっち先に触ろうかなぁ～～～～～～
 
 
