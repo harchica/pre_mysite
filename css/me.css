@@ -54,6 +54,8 @@ a{
   padding-bottom: 8px;
 }
 
+p.profile_cap {line-height: 32px;}
+
 .blank1{
   height: 200px;
   width: 30%;
